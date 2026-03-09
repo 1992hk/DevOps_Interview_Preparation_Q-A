@@ -1,9 +1,9 @@
-• Can you explain the components and architecture of Kubernetes?
- • If a Dockerfile is deleted, will the existing container keep running?
- • What happens if the scheduler goes down in Kubernetes?
- • What happens if a controller goes down?
+1. Can you explain the components and architecture of Kubernetes?
+2. If a Dockerfile is deleted, will the existing container keep running?
+3. What happens if the scheduler goes down in Kubernetes?
+4. What happens if a controller goes down?
 
-🔹 Level 1 – Core DevOps & Cloud Fundamentals
+Level 1 – Core DevOps & Cloud Fundamentals
 1. Can you introduce yourself?
 2. What are the best practices in Ansible?
 3. What is the purpose of storing the Terraform state file in Amazon S3?
