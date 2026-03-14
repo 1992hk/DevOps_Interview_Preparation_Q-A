@@ -25,3 +25,4 @@ Level 1 – Core DevOps & Cloud Fundamentals
 5. What security best practices have you implemented in Kubernetes?
 6. Where and how do you store secrets securely?
 7. Why are you looking to move on from your current organization?
+ 
